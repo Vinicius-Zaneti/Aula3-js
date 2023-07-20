@@ -9,6 +9,8 @@
 // Com isso, você faz com que sua pasta inteira vire modulos, permitindo que você crie bibliotecas
 
 //Para exportar, usamos o export 
+
+//1. Imprimir números de 1 a 10 utilizando o loop for
 export function exercicio1(){
 
     console.log("Exercicio 1 - FOR")
